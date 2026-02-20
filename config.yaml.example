@@ -1,0 +1,18 @@
+platforms:
+  medium:
+    user_id: "your_user_id"
+    token: "your_integration_token"
+  
+  devto:
+    api_key: "your_api_key"
+  
+  hashnode:
+    token: "your_personal_access_token"
+    publication_id: "your_publication_id"
+  
+  reddit:
+    access_token: "your_oauth_token"
+    subreddit: "your_subreddit"
+  
+  discord:
+    webhook_url: "https://discord.com/api/webhooks/..."
